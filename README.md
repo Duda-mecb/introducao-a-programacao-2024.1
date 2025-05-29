@@ -27,4 +27,3 @@ lista-03-listas/
 lista-04-funcoes/
 lista-05-recursao/
 lista-06-tuplas-e-dicionarios/
-treinamento/
